@@ -3639,4 +3639,4 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "15.1.2", ngImpor
  */
 
 export { CalendarComponent, NgCalendarModule, Step };
-//# sourceMappingURL=ionic2-calendar.mjs.map
+//# sourceMappingURL=AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs.map

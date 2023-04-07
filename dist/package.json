@@ -1,5 +1,5 @@
 {
-  "name": "ionic2-calendar",
+  "name": "@AndriesDemeulenaereBagaar/Ionic2-Calendar",
   "version": "1.0.1",
   "description": "Ionic2 calendar component",
   "keywords": [
@@ -23,11 +23,11 @@
     "@ionic/angular": "^7.0.0",
     "swiper": "^8.4.6"
   },
-  "module": "fesm2015/ionic2-calendar.mjs",
-  "es2020": "fesm2020/ionic2-calendar.mjs",
-  "esm2020": "esm2020/ionic2-calendar.mjs",
-  "fesm2020": "fesm2020/ionic2-calendar.mjs",
-  "fesm2015": "fesm2015/ionic2-calendar.mjs",
+  "module": "fesm2015/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+  "es2020": "fesm2020/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+  "esm2020": "esm2020/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+  "fesm2020": "fesm2020/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+  "fesm2015": "fesm2015/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -35,11 +35,11 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2020": "./esm2020/ionic2-calendar.mjs",
-      "es2020": "./fesm2020/ionic2-calendar.mjs",
-      "es2015": "./fesm2015/ionic2-calendar.mjs",
-      "node": "./fesm2015/ionic2-calendar.mjs",
-      "default": "./fesm2020/ionic2-calendar.mjs"
+      "esm2020": "./esm2020/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+      "es2020": "./fesm2020/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+      "es2015": "./fesm2015/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+      "node": "./fesm2015/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs",
+      "default": "./fesm2020/AndriesDemeulenaereBagaar-Ionic2-Calendar.mjs"
     }
   },
   "sideEffects": false
